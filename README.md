@@ -8,7 +8,7 @@ This project simulates an enterprise-level AI BI Copilot for e-commerce analytic
 
 # Project Overview
 
-ShopSphere AI Copilot allows business users to ask questions in natural language such as:
+AI SQL BI Copilot allows business users to ask questions in natural language such as:
 
 - Show total revenue
 - Show top 5 products by revenue
